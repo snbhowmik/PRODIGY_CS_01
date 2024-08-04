@@ -1,4 +1,4 @@
-# PRODIGY_CS_01 - CEASAR CIPHER PROGRAM
+CEASAR CIPHER PROGRAM
 This Python project implements the ceasar cipher, a simple and easy to use cipher where each letter in the plaintext is replaced by some other letter which is some fixed number of positions ahead of the original letter in English Alphabet.
 
 ### How it works
